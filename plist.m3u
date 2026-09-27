@@ -257,14 +257,26 @@ http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Мои каналы" ,Viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
-
-
-#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Мои каналы" ,Fx Life
-http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1 tvg-id="Comedy HD" group-title="Мои каналы",Viju+ Comedy HD
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:-1 tvg-id="viju+ Megahit" group-title="Мои каналы",viju+ Megahit
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Мои каналы" ,Дом Кино
+http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Мои каналы" ,Дом Кино Премиум HD
+http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
+http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
+http://192.162.64.99:5100/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Мои каналы" ,Русский детектив
+http://192.162.64.99:5100/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Мои каналы" ,Русский Иллюзион
+http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Мои каналы" ,Русский роман
+http://192.162.64.99:5100/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Мои каналы",Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Мои каналы" ,Start Air
+http://stream.mcquack.net/128/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FAN" group-title="Мои каналы",FAN
