@@ -248,22 +248,24 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 
 
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Мои каналы" ,Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Мои каналы" ,Viju TV1000 русское
+http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Мои каналы" ,Viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Мои каналы" ,Viju TV1000 Action
+http://stream.mcquack.net/100/index.m3u8
+
+
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Мои каналы" ,Fx Life
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-id="Comedy HD" group-title="Мои каналы",Viju+ Comedy HD
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 tvg-id="viju+ Megahit" group-title="Мои каналы",viju+ Megahit
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:-1 group-title="Мои каналы",Viju TV1000
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1,Viju TV1000
-#EXTINF:-1 group-title="Мои каналы",Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="Мои каналы",Viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
-#EXTINF:-1 tvg-id="kinotv_hd" group-title="Мои каналы",Кино ТВ HD
-http://194.28.61.170:8888/kinotv_hd
 
 #EXTINF:-1 tvg-id="FAN" group-title="Мои каналы",FAN
 http://31.148.48.15:80/Fan/index.m3u8
