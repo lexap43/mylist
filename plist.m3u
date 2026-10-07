@@ -294,7 +294,8 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Мои каналы",Kino 24
 http://192.162.64.99:5200/play/a01w/index.m3u8
-
+#EXTINF:-1 tvg-id="Еврокино" tvg-logo="https://iptvx.one/picons/Еврокино.png" group-title="Мои каналы" ,Еврокино
+http://185.46.16.239:8000/Yevrokino
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
