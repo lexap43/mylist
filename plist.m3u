@@ -258,14 +258,17 @@ http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Мои каналы" ,Viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
+#EXTINF:-1 tvg-id="Cinema HD" tvg-logo="https://iptvx.one/picons/Cinema.png" group-title="Мои каналы"  ,Cinema HD
+https://stream8.cinerama.uz/1227/index.m3u8
+
 #EXTINF:-1 tvg-id="arsenal" tvg-logo="https://iptvx.one/picons/arsenal.png" group-title="Мои каналы" ,Арсенал HD
 http://iptv.mega.net.ru:8888/arsenal_hd/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Мои каналы" ,Дом Кино
 http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Мои каналы" ,Дом Кино Премиум HD
 http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
 http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
