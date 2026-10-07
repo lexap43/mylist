@@ -265,8 +265,8 @@ http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Мои каналы" ,Viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 tvg-id="Cinema HD" tvg-logo="https://iptvx.one/picons/Cinema.png" group-title="Мои каналы"  ,Cinema HD
-https://stream8.cinerama.uz/1227/index.m3u8
+#EXTINF:-1 tvg-id="Cinema" tvg-logo="https://iptvx.one/picons/Cinema.png" group-title="Мои каналы"  ,Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="arsenal" tvg-logo="https://iptvx.one/picons/arsenal.png" group-title="Мои каналы" ,Арсенал HD
 http://iptv.mega.net.ru:8888/arsenal_hd/index.m3u8
