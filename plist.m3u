@@ -296,6 +296,12 @@ http://stream.mcquack.net/128/index.m3u8
 http://192.162.64.99:5200/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="Еврокино" tvg-logo="https://iptvx.one/picons/Еврокино.png" group-title="Мои каналы" ,Еврокино
 http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 tvg-id="Киноман" tvg-logo="https://iptvx.one/picons/Киноман.png" group-title="Мои каналы" ,Киноман
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 tvg-id="Кинопоказ" tvg-logo="https://iptvx.one/picons/Кинопоказ.png" group-title="Мои каналы" ,Кинопоказ
+http://iptv.mega.net.ru:8888/kinopokaz_hd/index.m3u8
+#EXTINF:-1 tvg-id="Комедия" tvg-logo="https://iptvx.one/picons/Комедия.png" group-title="Мои каналы" ,Комедия
+http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
