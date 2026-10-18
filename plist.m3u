@@ -268,10 +268,7 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="Cinema" tvg-logo="https://iptvx.one/picons/Cinema.png" group-title="Мои каналы"  ,Cinema
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Мои каналы"  ,premialnoe hd
-https://live-stream-07.ottgoods.ru/live/live/tnt_hd/hls_enc/tnt_hd-mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwNDk1NDYwMyIsImV4cCI6MTc5MjkwNjEyOSwiaHdpZCI6ImFiY2VlMTE3ZDg3OWY4ODVjZGVjNjE1NTg2N2Y5YzcwZDZkZDZlZTY2ZGVmYjIyZGRiYjc0OWEyMzBhNWRiYWIiLCJsYXN0X3JlcV9kYXRlIjoxNzkyMzAxMzI5LCJzZXNzaW9uX2lkIjoiMDk3OTRhNzczODRhOGVhMWMwMDJhODliNGViN2MwMGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6kpE0Tgm4Su12RUe0R6D3iKobadl4lD1yM1HOe73G_E
-#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Мои каналы"  ,premialnoe hd
-https://live-stream-07.ottgoods.ru/live/live/tnt_hd/hls_enc/tnt_hd-avc1_299968=10000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="arsenal" tvg-logo="https://iptvx.one/picons/arsenal.png" group-title="Мои каналы" ,Арсенал HD
