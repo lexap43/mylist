@@ -269,7 +269,10 @@ http://stream.mcquack.net/100/index.m3u8
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Мои каналы"  ,premialnoe hd
-https://kino.tricolor.ru/channel/premialnoe-hd-286/237292710
+http://kino.tricolor.ru/channel/premialnoe-hd-286/237292710
+#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Мои каналы"  ,premialnoe hd
+https://live-stream-07.ottgoods.ru/live/live/tnt_hd/hls_enc/tnt_hd-avc1_299968=10000.m3u8
+
 
 #EXTINF:-1 tvg-id="arsenal" tvg-logo="https://iptvx.one/picons/arsenal.png" group-title="Мои каналы" ,Арсенал HD
 http://iptv.mega.net.ru:8888/arsenal_hd/index.m3u8
