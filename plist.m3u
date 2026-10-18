@@ -275,7 +275,7 @@ http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Мои каналы" ,Дом Кино Премиум HD
 http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
+https://kino.tricolor.ru/channel/den-pobedy-hd-1501/237259454
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
 http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
