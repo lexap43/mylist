@@ -312,7 +312,7 @@ http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+https://salam-kzn-tatt-d152.rtbcdn.ru/dive/river-3-3102.rtbcdn.ru/YGgwVyJjcsDxLjamqnGGMA/stream/genetta-313.m9.rutube.ru/zENQNe_8Fx5SmJSau_AOnQ/1794937100/6422d62f7e1f87bc3aec45b462cd89ea/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Мои каналы",.black
 http://stream.mcquack.net/263/index.m3u8
@@ -328,8 +328,7 @@ http://iptv.mega.net.ru:8888/A2/index.m3u8
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Мои каналы" ,Amedia Premium HD
 http://iptv.mega.net.ru:8888/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Мои каналы" ,Bollywood HD
-http://iptv.mega.net.ru:8888/Bollywood_HD/index.m3u8
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
