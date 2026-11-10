@@ -310,6 +310,8 @@ http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Мои каналы" ,tls
+https://salam-kzn-tatt-d152.rtbcdn.ru/dive/river-3-363.rtbcdn.ru/R-HujBosAR_b4AAUTpmkTg/stream/genetta-321.m9.rutube.ru/h9U_plwXag5I7dhOQ7YR7A/1794937410/7c3d1a4cc0b4dff1176aa2dbb0b90000/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel
 https://salam-kzn-tatt-d152.rtbcdn.ru/dive/river-3-3102.rtbcdn.ru/YGgwVyJjcsDxLjamqnGGMA/stream/genetta-313.m9.rutube.ru/zENQNe_8Fx5SmJSau_AOnQ/1794937100/6422d62f7e1f87bc3aec45b462cd89ea/1080p_stream.m3u8
