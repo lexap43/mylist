@@ -271,6 +271,8 @@ http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
 
 
+
+
 #EXTINF:-1 tvg-id="arsenal" tvg-logo="https://iptvx.one/picons/arsenal.png" group-title="Мои каналы" ,Арсенал HD
 http://iptv.mega.net.ru:8888/arsenal_hd/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Мои каналы" ,Дом Кино
@@ -280,7 +282,7 @@ http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
 https://kino.tricolor.ru/channel/den-pobedy-hd-1501/237259454
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
-http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
+https://vsd164.okcdn.ru/hls/17099277929131.m3u8/sig/Q4vdQizhrMc/expires/1794419515520/srcIp/178.141.140.141/urls/178.237.23.112/clientType/0/srcAg/CHROME/mid/15075840368299/17099277929131_high/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
 http://192.162.64.99:5100/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Мои каналы" ,Русский детектив
