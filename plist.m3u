@@ -309,6 +309,8 @@ http://iptv.mega.net.ru:8888/kinopokaz_hd/index.m3u8
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Мои каналы",Plan B HD
 http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
+#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://iptvx.one/picons/premialnoe hd.png" group-title="Мои каналы" ,Премиальное HD
+https://tvcdnpotok.com/oxV-TXbRrZpOp6NdS5cVSA/134/1794352449/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel HD
 https://tvcdnpotok.com/PXbr8EwtsdG506rpsb-29w/520/1794352180/index.m3u8
