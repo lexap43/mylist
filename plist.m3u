@@ -280,7 +280,7 @@ http://iptv.mega.net.ru:8888/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Мои каналы" ,Дом Кино Премиум HD
 http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
-https://kino.tricolor.ru/channel/den-pobedy-hd-1501/237259454
+https://tv.cdntvtech.com/3/player/playersjs.html?file=https%3A%2F%2Ftv.cdntvtech.com%2F3%2Flivetv.php%3Fkey%3Dden-pobedy.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
 https://vsd164.okcdn.ru/hls/17099277929131.m3u8/sig/Q4vdQizhrMc/expires/1794419515520/srcIp/178.141.140.141/urls/178.237.23.112/clientType/0/srcAg/CHROME/mid/15075840368299/17099277929131_high/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
@@ -309,8 +309,22 @@ http://iptv.mega.net.ru:8888/kinopokaz_hd/index.m3u8
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="Мои каналы",Plan B HD
 http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
-#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://iptvx.one/picons/premialnoe hd.png" group-title="Мои каналы" ,Премиальное HD
+#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Мои каналы" ,Премиальное HD
 https://tvcdnpotok.com/oxV-TXbRrZpOp6NdS5cVSA/134/1794352449/index.m3u8
+#EXTINF:-1 tvg-id="ostrosyuzhetnoe-hd" tvg-logo="https://iptvx.one/picons/ostrosyuzhetnoe-hd.png" group-title="Мои каналы" ,Остросюжетное HD
+https://tvcdnpotok.com/7jziqFSqtRzsTiaBDdrEhg/578/1794352642/index.m3u8
+#EXTINF:-1 tvg-id="hit-hd" tvg-logo="https://iptvx.one/picons/hit-hd.png" group-title="Мои каналы" ,Хит HD
+https://tvcdnpotok.com/wZXD2wWWtNJln7ZEY8S0fQ/219/1794352833/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Мои каналы" ,FOX
+https://tvcdnpotok.com/jmgCNkL_zELs529Wmq4uGQ/569/1794352933/index.m3u8
+#EXTINF:-1 tvg-id="fox-life" tvg-logo="https://iptvx.one/picons/fox-life.png" group-title="Мои каналы" ,fox-life
+https://tvcdnpotok.com/S8QKlSfgaRsPU96ikt6KoQ/568/1794353032/index.m3u8
+
+#EXTINF:-1 tvg-id="fantastica-hd" tvg-logo="https://iptvx.one/picons/fantastica-hd.png" group-title="Мои каналы" ,fantastica-hd
+https://tvcdnpotok.com/RG5mu0WNiQsQ3GR7ZA4lrA/2066/1794353162/index.m3u8
+#EXTINF:-1 tvg-id="boeviki-hd" tvg-logo="https://iptvx.one/picons/boeviki-hd.png" group-title="Мои каналы" ,Боевики HD
+https://tvcdnpotok.com/RTATyGlsXyt2ob8kV2lslQ/2035/1794353491/index.m3u8
+
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Мои каналы" ,Discovery Channel HD
 https://tvcdnpotok.com/PXbr8EwtsdG506rpsb-29w/520/1794352180/index.m3u8
