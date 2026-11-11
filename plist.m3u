@@ -280,7 +280,7 @@ https://s.ontivi.net/Su0hi0Ojz8reAtWa4-jiGg/186/1794442806/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Мои каналы" ,Дом Кино Премиум HD
 https://s.ontivi.net/4Ts4lqNuevGS-JHgzB0Vjg/187/1794442886/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Мои каналы" ,День Победы
-https://tv.cdntvtech.com/3/player/playersjs.html?file=https%3A%2F%2Ftv.cdntvtech.com%2F3%2Flivetv.php%3Fkey%3Dden-pobedy.m3u8
+http://89.221.203.121:8081/iptv/den-pobedi-channel/chunks.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Мои каналы" ,Победа
 https://s.ontivi.net/2ZbuDssoo68Vm-xt0EtZ0w/218/1794443147/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Мои каналы" ,Русский бестселлер
