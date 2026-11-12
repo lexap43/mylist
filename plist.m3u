@@ -255,12 +255,12 @@ http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 tvg-id="Viju+ Comedy HD" tvg-logo="https://iptvx.one/picons/Viju+ Comedy HD.png" group-title="Мои каналы" ,Viju+ Comedy HD
 https://stream2.somon.tv/vipcomedy/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Мои каналы" ,Кино ТВ
-http://194.152.35.17/kino-tv/index.m3u8
+https://tvcdnpotok.com/0FoqMcDJFi5Me0zkpcv32g/504/1794521737/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Мои каналы" ,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Мои каналы" ,Viju TV1000 русское
-http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
+https://s7.iptv-24.net/1059/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Мои каналы" ,Viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Мои каналы" ,Viju TV1000 Action
